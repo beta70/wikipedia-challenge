@@ -9,6 +9,7 @@ const HTMLParser = require('node-html-parser');
     const titles: any = []
     let foundTarget = false
 
+
     console.time();
 
     try {
